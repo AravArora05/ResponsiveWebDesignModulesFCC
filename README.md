@@ -1,4 +1,4 @@
-#Responsive Web Design Guided Projects
+# Responsive Web Design Guided Projects
 
 Welcome to my collection of Responsive Web Design projects! These guided mini-projects are part of the FreeCodeCamp (FCC) curriculum, designed to help you learn the skills necessary to create responsive and modern web designs. Completing these projects is a key step toward obtaining the Responsive Web Design Certification.
 
